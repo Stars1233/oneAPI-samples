@@ -4,3 +4,4 @@ matplot
 xgboost==0.81
 scikit-learn
 pandas
+setuptools>=70.0.0 # not directly required, pinned by Snyk to avoid a vulnerability
