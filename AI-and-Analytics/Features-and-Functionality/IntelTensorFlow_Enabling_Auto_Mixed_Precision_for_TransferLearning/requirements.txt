@@ -2,3 +2,4 @@ notebook
 Pillow
 tensorflow_hub
 requests
+setuptools>=70.0.0 # not directly required, pinned by Snyk to avoid a vulnerability
