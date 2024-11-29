@@ -4,3 +4,4 @@ matplot
 xgboost==0.81
 scikit-learn
 pandas
+tornado>=6.4.2 # not directly required, pinned by Snyk to avoid a vulnerability
