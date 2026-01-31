@@ -4,3 +4,4 @@ matplot
 xgboost==0.81
 scikit-learn
 pandas
+nbconvert>=7.17.0 # not directly required, pinned by Snyk to avoid a vulnerability
