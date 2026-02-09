@@ -15,3 +15,4 @@ tensorboard-plugin-wit
 tf-estimator-nightly
 tokenizers
 transformers
+zipp>=3.19.1 # not directly required, pinned by Snyk to avoid a vulnerability
