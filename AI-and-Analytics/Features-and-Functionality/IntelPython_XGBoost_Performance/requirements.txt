@@ -4,3 +4,4 @@ matplot
 xgboost==0.81
 scikit-learn
 pandas
+cryptography>=46.0.5 # not directly required, pinned by Snyk to avoid a vulnerability
